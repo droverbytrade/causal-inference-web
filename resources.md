@@ -33,6 +33,9 @@ Judea Pearl's blog: <http://causality.cs.ucla.edu/blog/>
 Tutorial on non-parametric causal models by Thomas Richardson:  
 <https://www.microsoft.com/en-us/research/video/tutorial-non-parametric-causal-models/>
 
+Tutorial on using DAGitty by Scott Venners:  
+<https://www.youtube.com/watch?v=pJhU4fimHBQ>
+
 
 
 ### Causality bookshelf
