@@ -5,7 +5,7 @@ This is a lecture/lab within the M.Sc. program [Sociology and Empirical Social R
 
 Course syllabus <a href="{{ site.baseurl }}/pdfs/syllabus.pdf"><span class="badge badge-pill badge-secondary"><i class="fa fa-file-pdf-o"></i> PDF</span></a>
 
-Evaluations and feedback:  
+### Evaluations and feedback:  
 [Winter 2016](https://www.dropbox.com/s/whpfgj222e5sjwg/causalityWS16.pdf?dl=0), 
 [Winter 2017](https://www.dropbox.com/s/bezv33hz8mrrnjg/causalityWS17.pdf?dl=0)
 
