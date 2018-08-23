@@ -12,6 +12,7 @@ Course syllabus <a href="{{ site.baseurl }}/pdfs/syllabus.pdf"><span class="badg
 [Winter 2016](https://www.dropbox.com/s/whpfgj222e5sjwg/causalityWS16.pdf?dl=0), 
 [Winter 2017](https://www.dropbox.com/s/bezv33hz8mrrnjg/causalityWS17.pdf?dl=0)
 
+<p class="message">
 *Very good, thorough and helpful introduction...I enjoyed it!*
 
 *It was much more difficult than I expected.*
@@ -25,3 +26,4 @@ Course syllabus <a href="{{ site.baseurl }}/pdfs/syllabus.pdf"><span class="badg
 *Would recommend the course to fellow students (even if it's very hard work).*
 
 *Now I have a better understanding regarding the background of many studies.*
+</p>
