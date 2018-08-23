@@ -1,6 +1,6 @@
 ---
 layout: category
-title: CONTENT
+title: Content
 sidebar_sort_order: 2
 ---
 
