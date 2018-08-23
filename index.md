@@ -17,24 +17,24 @@ Very good, thorough and helpful introduction...I enjoyed it!
 </p>
 
 <p class="message">
-It was much more difficult than I expected.*
+It was much more difficult than I expected.
 
 <p class="message">
-This course was definitely one of the best classes I took during my whole study career.*
+This course was definitely one of the best classes I took during my whole study career.
 </p>
 
 <p class="message">
-It's very time-intensive.*
+It's very time-intensive.
 </p>
 
 <p class="message">
-Very motivated and illuminating.*
+Very motivated and illuminating.
 </p>
 
 <p class="message">
-Would recommend the course to fellow students (even if it's very hard work).*
+Would recommend the course to fellow students (even if it's very hard work).
 </p>
 
 <p class="message">
-Now I have a better understanding regarding the background of many studies.*
+Now I have a better understanding regarding the background of many studies.
 </p>
