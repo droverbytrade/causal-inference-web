@@ -13,17 +13,28 @@ Course syllabus <a href="{{ site.baseurl }}/pdfs/syllabus.pdf"><span class="badg
 [Winter 2017](https://www.dropbox.com/s/bezv33hz8mrrnjg/causalityWS17.pdf?dl=0)
 
 <p class="message">
-*Very good, thorough and helpful introduction...I enjoyed it!*
+Very good, thorough and helpful introduction...I enjoyed it!
+</p>
 
-*It was much more difficult than I expected.*
+<p class="message">
+It was much more difficult than I expected.*
 
-*This course was definitely one of the best classes I took during my whole study career.*
+<p class="message">
+This course was definitely one of the best classes I took during my whole study career.*
+</p>
 
-*It's very time-intensive.*
+<p class="message">
+It's very time-intensive.*
+</p>
 
-*Very motivated and illuminating.*
+<p class="message">
+Very motivated and illuminating.*
+</p>
 
-*Would recommend the course to fellow students (even if it's very hard work).*
+<p class="message">
+Would recommend the course to fellow students (even if it's very hard work).*
+</p>
 
-*Now I have a better understanding regarding the background of many studies.*
+<p class="message">
+Now I have a better understanding regarding the background of many studies.*
 </p>
