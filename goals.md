@@ -1,5 +1,8 @@
-
-## Goals and learning outcomes
+---
+layout: category
+title: Goals
+sidebar_sort_order: 3
+---
 
 The course has three broad goals, which I enumerate below. Each goal is associated with a number of specific learning outcomes, which you should be able to perform as the course concludes. Students who complete the course should be able to
 

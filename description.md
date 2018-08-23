@@ -1,5 +1,8 @@
-
-## Course content
+---
+layout: category
+title: CONTENT
+sidebar_sort_order: 2
+---
 
 Do negative campaign ads help politicians win elections? Are there learning benefits to regular course attendance at university? Is maternal employment bad for children's development and, if so, why? If you are interested in answering such or similar questions, you are in the business of causal inference; your aim is to use empirical data to learn about causal relations between specific variables. 
 

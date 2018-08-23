@@ -4,5 +4,6 @@ highlighter:      rouge
 remote_theme:     fongandrew/hydeout
 
 # Setup
-title:            Introduction to causal inference
+title:            
 tagline:          Class website
+description:      Introduction to causal inference

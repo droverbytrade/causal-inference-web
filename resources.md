@@ -1,5 +1,8 @@
-
-## Course resources
+---
+layout: category
+title: Resources
+sidebar_sort_order: 6
+---
 
 ### Materials and lab submission on Ilias
 <https://www.ilias.uni-koeln.de/ilias/goto_uk_crs_2272154.html>
@@ -79,14 +82,3 @@ Tutorial on using DAGitty by Scott Venners:
 * Rosenbaum, P. R. 2010. *Design of Observational Studies.* New York: Springer.
 * Shadish, W., Cook, T., and Campbell, D. 2002. *Experimental and Quasi-Experimental Designs for Generalized Causal Inference.* Belmont, CA: Wadsworth Cengage Learning.
 * van der Laan, M. and Rose, S. 2011. *Targeted Learning: Causal Inference for Observational and Experimental Data.* New York: Springer.
-
-
-
-
-
-
-
-
-
-
-

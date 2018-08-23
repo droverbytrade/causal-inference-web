@@ -1,5 +1,8 @@
-
-## Requirements and grading
+---
+layout: category
+title: Grading
+sidebar_sort_order: 4
+---
 
 In case of successful course completion you’re awarded 9 credit points. Please be aware that course completion requires a substantial time investment outside class. This includes required readings, exercises and practical labs. I highly recommend to regularly get together in small groups to discuss course contents and also to prepare comments and questions to be discussed in class.
 
@@ -25,4 +28,3 @@ The final grade is awarded according to the following rules:
 |   3.7  | 36 > P ≤ 33  |
 |   4.0  | 33 > P ≤ 30  |
 |   n.p  | 30 > P ≤ 0   |
-

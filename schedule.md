@@ -1,5 +1,8 @@
-
-## Course schedule
+---
+layout: category
+title: Schedule
+sidebar_sort_order: 5
+---
 
 The course, for the most part, builds on the following three textbooks, which---in the course schedule---will be abbreviated as PGJ, HR, and VDW, respectively, when excerpts are designated as readings for class:
 
