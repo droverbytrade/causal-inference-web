@@ -12,7 +12,7 @@ The class, for the most part, builds on the following three references, which---
 
 * * * 
 
-**Introduction (Oct 8)**[<i class="fa fa-file-pdf-o" aria-hidden="true"></i>](https://mfr.osf.io/render?url=https://osf.io/538wa/?action=download%26mode=render)  
+**Introduction [<i class="fa fa-file-pdf-o" aria-hidden="true"></i>](https://mfr.osf.io/render?url=https://osf.io/538wa/?action=download%26mode=render) (Oct 8)**  
 Key point: *Causal inference is important!*  
 Further reading: [Petersen & van der Laan (2014)](https://doi.org/10.1097/EDE.0000000000000078)  
 Assignment 1 [<i class="fa fa-file-pdf-o" aria-hidden="true"></i>](https://mfr.osf.io/render?url=https://osf.io/hae9m/?action=download%26mode=render) (due Oct 10, 5:44pm)
