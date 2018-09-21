@@ -4,7 +4,7 @@ title: Resources
 sidebar_sort_order: 6
 ---
 
-**Materials and lab submission on Ilias**  
+**Materials and homework submission on Ilias**  
 <https://www.ilias.uni-koeln.de/ilias/goto_uk_crs_2629351.html>
 
 **Q&A on Piazza**  
@@ -53,7 +53,7 @@ Piazza is also available as a costfree app for Android and iOS.
 
 * Deaton, A. and Cartwright, N. (2016). [Understanding and misunderstanding randomized controlled trials.](https://doi.org/10.1016/j.socscimed.2017.12.005) *Social Science & Medicine.*
 * Jackson, M. and Cox, D. R. (2013). [The principles of experimental design and their application in sociology.](https://doi.org/10.1146/annurev-soc-071811-145443) *Annual Review of Sociology* 39, pp. 27–49.
-* Mansournia, M. A., Higgins, J. P. T., Sterne, J. A. C., and Hernán, M. A. (2017). [Biases in randomized trials a conversation between trialists and epidemiologists.](https://doi.org/10.1097/EDE.0000000000000564) *Epidemiology* 28 (1), pp. 54–59
+* Mansournia, M. A., Higgins, J. P. T., Sterne, J. A. C., and Hernán, M. A. (2017). [Biases in randomized trials: A conversation between trialists and epidemiologists.](https://doi.org/10.1097/EDE.0000000000000564) *Epidemiology* 28 (1), pp. 54–59
 * Sampson, R. J. (2010). [Gold standard myths: Observations on the experimental turn in quantitative criminology.](https://link.springer.com/article/10.1007%2Fs10940-010-9117-3) *Journal of Quantitative Criminology* 26 (4), pp. 489–500.
 
 *Causal mediation analysis*:
