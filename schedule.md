@@ -17,29 +17,29 @@ Key point: *Causal inference is important!*
 Further reading: [Petersen & van der Laan (2014)](https://doi.org/10.1097/EDE.0000000000000078)  
 Assignment 1 [<i class="fa fa-file-pdf-o" aria-hidden="true"></i>](https://mfr.osf.io/render?url=https://osf.io/hae9m/?action=download%26mode=render) (due Oct 10, 5:44pm)
 
-**Data and correlations (Oct 10 & 15)**  
+**Data and correlations [<i class="fa fa-file-pdf-o" aria-hidden="true"></i>](https://mfr.osf.io/render?url=https://osf.io/239s8/?action=download%26mode=render) (Oct 10 & 15)**  
 Key point: *Correlations describe group differences in the data (whereas causal effects capture changes in the world)!*  
 Required reading: PGJ, Preface + HR, Preface to Ch. 1 + [Shalizi (2018)](https://www.stat.cmu.edu/~cshalizi/ADAfaEPoV/ADAfaEPoV.pdf), Ch. 1.1  
 Further reading: PGJ, Ch. 1.3 (before 1.3.10) + [Shalizi (2018)](https://www.stat.cmu.edu/~cshalizi/ADAfaEPoV/ADAfaEPoV.pdf), Ch. 1.2   
-Assignment 2 (due Oct 15, 9:59am)
+Assignment 2 [<i class="fa fa-file-pdf-o" aria-hidden="true"></i>](https://mfr.osf.io/render?url=https://osf.io/6ev9p/?action=download%26mode=render) (due Oct 15, 9:59am)
 
-**Modelling correlations (Oct 17 & 22)**  
+**Modelling correlations [<i class="fa fa-file-pdf-o" aria-hidden="true"></i>](https://mfr.osf.io/render?url=https://osf.io/en32p/?action=download%26mode=render) (Oct 17 & 22)**  
 Key point: *Statistical models (like regression) interpolate and extrapolate correlations in sparse data (but don't estimate causal effects)!*  
 Required reading: HR, Ch. 11  
 Further reading: PGJ, Ch. 1.3.10 + 1.3.11 + [Shalizi (2018)](https://www.stat.cmu.edu/~cshalizi/ADAfaEPoV/ADAfaEPoV.pdf), Ch. 1.3-1.5 + 11  
-Assignment 3 (due Oct 22, 9:59am)  
+Assignment 3 [<i class="fa fa-file-pdf-o" aria-hidden="true"></i>](https://mfr.osf.io/render?url=https://osf.io/zyuwb/?action=download%26mode=render) (due Oct 22, 9:59am)  
 
-**The limits of correlations (Oct 24 & 29)**  
+**The limits of correlations [<i class="fa fa-file-pdf-o" aria-hidden="true"></i>](https://mfr.osf.io/render?url=https://osf.io/pdn6s/?action=download%26mode=render) (Oct 24 & 29)**  
 Key point: *Data, correlations, and statistical models alone are not sufficient for causal inference (we also need causal models)!*  
 Required reading: [Shalizi (2018)](https://www.stat.cmu.edu/~cshalizi/ADAfaEPoV/ADAfaEPoV.pdf), Ch. 2.4 + PGJ, pp. 1-6  
 Further reading: [Shalizi (2018)](https://www.stat.cmu.edu/~cshalizi/ADAfaEPoV/ADAfaEPoV.pdf), Ch. 2  
-Assignment 4 (due Oct 29, 9:59am)
+Assignment 4 [<i class="fa fa-file-pdf-o" aria-hidden="true"></i>](https://mfr.osf.io/render?url=https://osf.io/zeyj4/?action=download%26mode=render) (due Oct 29, 9:59am)
 
-**Building causal models (Oct 31 & Nov 5)**  
+**Building causal models [<i class="fa fa-file-pdf-o" aria-hidden="true"></i>](https://mfr.osf.io/render?url=https://osf.io/h6ryq/?action=download%26mode=render) (Oct 31 & Nov 5)**  
 Key point: *Causal models are theories/assumptions about the common causes of our phenomena of interest!*  
 Required reading: ELW, pp. 245-249  
 Further reading: PGJ Ch. 1.4 + 1.5  
-Assignment 5 (due Nov 5, 9:59am)
+Assignment 5 [<i class="fa fa-file-pdf-o" aria-hidden="true"></i>](https://mfr.osf.io/render?url=https://osf.io/prsua/?action=download%26mode=render) (due Nov 5, 9:59am)
 
 **From causal models to correlations (Nov 7 & 12)**  
 Key point: *Causal models imply a set of correlations we should see in data (but the same set of correlations is consistent with multiple causal models)!*  
