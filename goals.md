@@ -21,4 +21,4 @@ The class has three broad goals, which I enumerate below. Each goal is associate
    * correctly interpret the resulting estimates,
    * understand and perform tests of the validity of the analyses.
 
-As a bonus, I hope the class leads you to appreciate the ubiquity of causal inference in research, work, and daily live along with the recent advances in the concepts and tools to systematically undertake it. The class, by far, doesn’t cover everything there is. But it should provide you with enough understanding to learn more on your own.
+As a bonus, I hope the class leads you to appreciate the ubiquity of causal inference in research, work, and daily life along with the recent advances in the concepts and tools to systematically undertake it. The class, by far, doesn’t cover everything there is. But it should provide you with enough understanding to learn more on your own.
