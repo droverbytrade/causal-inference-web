@@ -41,52 +41,52 @@ Required reading: ELW, pp. 245-249
 Further reading: PGJ Ch. 1.4 + 1.5  
 Assignment 5 [<i class="fa fa-file-pdf-o" aria-hidden="true"></i>](https://mfr.osf.io/render?url=https://osf.io/prsua/?action=download%26mode=render) (due Nov 5, 9:59am)
 
-**From causal models to correlations (Nov 7 & 12)**  
+**From causal models to correlations [<i class="fa fa-file-pdf-o" aria-hidden="true"></i>](https://mfr.osf.io/render?url=https://osf.io/z3k4g/?action=download%26mode=render) (Nov 7 & 12)**  
 Key point: *Causal models imply a set of correlations we should see in data (but the same set of correlations is consistent with multiple causal models)!*  
 Required reading: ELW, pp. 249-254  
 Further reading: PGJ Ch. 2  
-Assignment 6 (due Nov 12, 9:59am)
+Assignment 6 [<i class="fa fa-file-pdf-o" aria-hidden="true"></i>](https://mfr.osf.io/render?url=https://osf.io/7eakm/?action=download%26mode=render) (due Nov 12, 9:59am)
 
-**Defining and identifying total effects (Nov 14 & 19)**  
+**Defining and identifying total effects [<i class="fa fa-file-pdf-o" aria-hidden="true"></i>](https://mfr.osf.io/render?url=https://osf.io/yr7md/?action=download%26mode=render) (Nov 14 & 19)**  
 Key point: *Causal inference addresses what-if questions by separating causal correlations from noncausal correlations on the basis of causal models (which is often very tricky and sometimes impossible)!*  
 Required reading: HR Ch. 1 + 3 + 6.4 + 4.1 + 4.3 + 6.6  
 Further reading: ELW, pp. 254-261 + PGJ Ch. 3 + 4  
-Assignment 7 (due Nov 19, 9:59am)
+Assignment 7 [<i class="fa fa-file-pdf-o" aria-hidden="true"></i>](https://mfr.osf.io/render?url=https://osf.io/f8d46/?action=download%26mode=render) (due Nov 19, 9:59am)
 
-**Confounding bias (Nov 21 & 26)**  
+**Confounding bias [<i class="fa fa-file-pdf-o" aria-hidden="true"></i>](https://mfr.osf.io/render?url=https://osf.io/hmav3/?action=download%26mode=render) (Nov 21 & 26)**  
 Key point: *Failing to control for specific variables can bias causal inference!*  
 Required reading: HR Ch. 7 (except 7.4)  
 Further reading: ELW, pp. 261-262  
-Assignment 8 (due Nov 26, 9:59am)
+Assignment 8 [<i class="fa fa-file-pdf-o" aria-hidden="true"></i>](https://mfr.osf.io/render?url=https://osf.io/z86aj/?action=download%26mode=render) (due Nov 26, 9:59am)
 
-**Collider bias and overcontrol bias (Nov 28 & Dec 3)**  
+**Collider bias and overcontrol bias [<i class="fa fa-file-pdf-o" aria-hidden="true"></i>](https://mfr.osf.io/render?url=https://osf.io/w5dku/?action=download%26mode=render) (Nov 28 & Dec 3)**  
 Key point: *Controlling for specific variables can bias causal inference, too!*  
 Required reading: HR Ch. 8  
 Further reading: [Elwert & Winship (2013)](https://doi.org/10.1146/annurev-soc-071913-043455) + [Hernán et al (2004)](https://doi.org/10.1097/01.ede.0000135174.63482.43)  
-Assignment 9 (due Dec 3, 9:59am)
+Assignment 9 [<i class="fa fa-file-pdf-o" aria-hidden="true"></i>](https://mfr.osf.io/render?url=https://osf.io/fvrwy/?action=download%26mode=render) (due Dec 3, 9:59am)
 
-**Randomized experiments and bias (Dec 5 & 10)**  
+**Randomized experiments and bias [<i class="fa fa-file-pdf-o" aria-hidden="true"></i>](https://mfr.osf.io/render?url=https://osf.io/3sj5e/?action=download%26mode=render) (Dec 5 & 10)**  
 Key point: *Randomization is a design-based solution for some (but not all) potential biases in causal inference!*  
 Required reading: HR Ch. 2.1 + PGJ Ch. 4.3.3  
 Further reading: [Deaton & Cartwright (2018)](https://doi.org/10.1016/j.socscimed.2017.12.005) + [Mansournia et al (2017)](https://doi.org/10.1097/eDe.0000000000000564) + [Sampson (2010)](https://doi.org/10.1007/s10940-010-9117-3)  
-Assignment 10 (due Dec 10, 9:59am)
+Assignment 10 [<i class="fa fa-file-pdf-o" aria-hidden="true"></i>](https://mfr.osf.io/render?url=https://osf.io/xn4sb/?action=download%26mode=render) (due Dec 10, 9:59am)
 
-**Adjusting for covariates using regression (Dec 12 & 17)**  
+**Adjusting for covariates using regression [<i class="fa fa-file-pdf-o" aria-hidden="true"></i>](https://mfr.osf.io/render?url=https://osf.io/t85ba/?action=download%26mode=render) (Dec 12 & 17)**  
 Key point: *Under specific conditions, regression can be useful for causal inference!*  
 Required reading: HR, Ch. 10.1 + 10.2 + 10.5 + 15.1.  
-Assignment 11 (due Dec 17, 9:59am)
+Assignment 11 [<i class="fa fa-file-pdf-o" aria-hidden="true"></i>](https://mfr.osf.io/render?url=https://osf.io/wygkq/?action=download%26mode=render) (due Dec 17, 9:59am)
 
-**Adjusting for covariates through re-weighting (Dec 19 & Jan 7)**  
+**Adjusting for covariates through re-weighting [<i class="fa fa-file-pdf-o" aria-hidden="true"></i>](https://mfr.osf.io/render?url=https://osf.io/8bhgd/?action=download%26mode=render) (Dec 19 & Jan 7)**  
 Key point: *Regression is one of many statistical tools that can be used for causal inference!*  
 Required reading: HR, Ch. 2.4 + 12 (except 12.3 + 12.6).  
-Assignment 12 (due Jan 7, 9:59am)
+Assignment 12 [<i class="fa fa-file-pdf-o" aria-hidden="true"></i>](https://mfr.osf.io/render?url=https://osf.io/v2qkh/?action=download%26mode=render) (due Jan 7, 9:59am)
 
-**Adjusting for missing data through re-weighting (Jan 9 & 14)**  
+**Adjusting for missing data through re-weighting [<i class="fa fa-file-pdf-o" aria-hidden="true"></i>](https://mfr.osf.io/render?url=https://osf.io/9rywk/?action=download%26mode=render) (Jan 9 & 14)**  
 Key point: *See above!*  
 Required reading: HR, Ch. 12.6  
-Assignment 13 (due Jan 14, 9:59am)
+Assignment 13 [<i class="fa fa-file-pdf-o" aria-hidden="true"></i>](https://mfr.osf.io/render?url=https://osf.io/gucje/?action=download%26mode=render) (due Jan 14, 9:59am)
 
-**Further topics in causal inference (Jan 16, 21, 23 & 28)**  
+**Further topics in causal inference [<i class="fa fa-file-pdf-o" aria-hidden="true"></i>](https://mfr.osf.io/render?url=https://osf.io/sw86k/?action=download%26mode=render) (Jan 16, 21, 23 & 28)**  
 Key point: *There are many many more things to know about causal inference!*  
 Further reading: see lecture slides for references
 
